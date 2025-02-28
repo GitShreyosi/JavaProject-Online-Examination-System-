@@ -5,7 +5,7 @@ response.setHeader("Pragma", "no-cache");
 response.setHeader("Expires", "0"); //prevents caching at the proxy server
 %>
 <!DOCTYPE html>
-<!-- Created By CodingNepal -->
+
 <html lang="en" dir="ltr">
 
 <head>
