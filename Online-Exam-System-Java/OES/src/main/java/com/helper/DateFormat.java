@@ -9,7 +9,7 @@ public class DateFormat {
 		java.sql.Date sqlDate = null;
 
 		try {
-			SimpleDateFormat format = new SimpleDateFormat("yyyy-mm-dd");
+			SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd");//as mm stands for mintues
 			java.util.Date utilDate = format.parse(strDate);
 			sqlDate = new java.sql.Date(utilDate.getTime());
 		} catch (Exception e) {
