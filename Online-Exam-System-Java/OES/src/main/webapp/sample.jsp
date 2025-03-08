@@ -15,7 +15,7 @@ String password= request.getParameter("password");
 
 
 <!DOCTYPE html>
-<!-- Created By CodingNepal -->
+
 <html lang="en" dir="ltr">
 
 <head>
