@@ -6,7 +6,7 @@ public class App {
 
 		/*
 		 * GEmailSender gEmailSender = new GEmailSender(); String to =
-		 * "navadkarsujit1704@gmail.com"; String from = "sujitnavadkar@gmail.com";
+		 * "ranjit145@gmail.com"; String from = "ranjit@gmail.com";
 		 * String subject = "Second: Sending email using GMail";
 		 * 
 		 * OTP otp=new OTP(); String otpmessage=otp.generateOTP(5); String text =
