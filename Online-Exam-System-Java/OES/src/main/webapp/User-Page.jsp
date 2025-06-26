@@ -410,12 +410,7 @@ DatabaseClass DAO = new DatabaseClass();
             </div> 
         </div>
     </div>  -->
-     <script>
-        var app = angular.module('myApp', []);
-        app.controller('myCtrl', function ($scope) {
-            $scope.name = "";
-        });
-    </script>
+
     <script src="js/script.js"></script>
 </body>
 </html>
