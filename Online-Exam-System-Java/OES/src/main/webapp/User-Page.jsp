@@ -20,7 +20,7 @@ DatabaseClass DAO = new DatabaseClass();
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
     <link rel="stylesheet" href="css/form.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+
     <link rel="shortcut icon" type="image/x-icon" href="img/logo2.png">
 </head>
 
